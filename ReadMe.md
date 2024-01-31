@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de analise de sistemas<br>🤝 Estou em busca de estágio na área de desenvolvimento de sistema.<br>🌱 No momento estou estudando Lavrável, com o foco em back end<br>
+🔭 Sou estudante de analise de sistemas<br>🤝 Estou em busca de estágio na área de desenvolvimento de sistema.<br>🌱 No momento estou estudando Laravel, com o foco em back end<br>
 
 
 ## 🌐 Socials:
